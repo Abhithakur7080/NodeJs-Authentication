@@ -25,11 +25,11 @@ http://serene-headland-22338.herokuapp.com/
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/nodejs-auth.git`
+`git clone https://github.com/Abhithakur7080/NodeJs-Authentication`
 
 ##### Into the project directory
 
-`cd nodejs-auth`
+`cd NodeJs-Authentication`
 
 ##### Installing NPM dependencies
 
